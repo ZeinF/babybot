@@ -46,7 +46,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'ORG:OWNER BOTZ;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6282154994100:+62 821-5499-4100\n' 
             + 'END:VCARD' 
-prefix = '!'
+prefix = '#'
 blocked = []   
 limitawal = 20
 memberlimit = 2
