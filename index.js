@@ -41,23 +41,23 @@ const vcard = 'BEGIN:VCARD\n'
 // KASIH WM GUE
             + 'VERSION:3.0\n' 
 // RAMLAN ID
-            + 'FN:RAMLAN ID\n' 
+            + 'FN:Zein\n' 
 // JAN NGEYEL AJG
             + 'ORG:OWNER BOTZ;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285559240360:+62 855-5924-0360\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6282154994100:+62 821-5499-4100\n' 
             + 'END:VCARD' 
 prefix = '!'
 blocked = []   
 limitawal = 20
 memberlimit = 2
-cr = '*𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙 𝐕𝐄𝐑𝐈𝐅𝐈𝐄𝐃*'
+cr = '*FROM WHATSAPP*'
 
 /*
 ]=====> SETTINGS <=====[
 */
-const ownerNumber = ["6285559240360@s.whatsapp.net","6285559240360@s.whatsapp.net"]
-const botName = '𝐁𝐀𝐁𝐘 𝐁𝐎𝐓𝐙'
-const ownerName = '𝗥𝗮𝗺𝗹𝗮𝗻 𝗜𝗗'
+const ownerNumber = ["6282154994100@s.whatsapp.net","6289697318611.@s.whatsapp.net"]
+const botName = 'FARDANY BOT'
+const ownerName = 'ZEIN'
 const BarBarKey = 'IDxO1TFYnKADlX4pxcHa' // APIKEY DOWNLOAD FILE
 const VhtearKey = 'APIKEY' // YANG DI YOUTUBE
 const TobzKey = 'BotWeA' // JANGAN MAU ENAK DOANG
